@@ -1,0 +1,14 @@
+Design/Approach of a chatbot:
+1) Identify conversation scenarios between a user and a bot.
+2)
+a) For each line identify intents( which is Topics in PVA)
+b) Intents can be identified based on multiple ways a sentence can be framed.
+Example : Hi, Hello, Hey, Yo...( These are trigger phrases for Topic, intent is Greeting here)
+3) Once intent identified, extract the necessary entity from the conversation.
+4) Based on the identified  entity and intent, the corresponding backend action (PA flows - in our case KB of HR policy) to be called to fetch the answer.
+
+So we need to design/frame steps 1,2 and 3 above(at PVA end) - calling PA flow with the structured question to KB must be straightforward.
+
+Bot composer comes into picture when we need multi-turn by providing clickable options.
+
+Bot Framework Skills are re-usable conversational skill ( other chatbots on specific skills) to be called in this chatbot.

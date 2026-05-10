@@ -1,0 +1,14 @@
+Business questions:
+1) How often/frequency do users prefer to use the HR Chatbot ?
+2) What is the major topic on which questions that the current HR Chatbot being used, handle ?
+3) What is the percentage of questions that go unanswered, and what is the flow in current ChatBot to handle it ?
+4) How often or Frequency/Percentage of change of location queries that happen in a conversation other
+than the user's current location ?
+5) Is the Chatbot only for internal/regular employees only with a login ?
+6) Is filling up forms and updating leaves also to be part of the chatBot in the current phase.
+7) How would a voice chatbot help , in case there is form filling and updating leaves task that
+needs to be done manually by a user ?
+8) Should the tasks be broken down into phases:
+      1) Phase-1 - Static policy displays with multiturn, Logged in User greeting, and change of location for policy
+     queries.
+ 2) Phase-2 - Integration - with form filling, updating leaves and other tasks related to HR.

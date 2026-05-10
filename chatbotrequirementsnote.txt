@@ -1,0 +1,12 @@
+List of Topics to prepare for MSFT Chatbot:
+
+1) PVA
+2) Azure Cognitive Services
+ a) Custom Question Answering
+b) Speech Service
+c) Conversational Language Understanding.
+d) Azure Cognitive Search.
+3) Bot Framework Composer Tool
+4) Azure Blob Storage.
+5) Power Automate.
+6) Language Studio
